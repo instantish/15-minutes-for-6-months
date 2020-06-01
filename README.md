@@ -7,4 +7,4 @@ Step 1: Add the files from the `.github` folder into your repo's `.github` folde
 
 This will trigger actions that put your labels and milestones on auto-pilot. No need to make any decisions ✨
 
-👀 Watch this space
+_Questions? Email us at hi@itsinstantish.com and we'll be happy to help!_
