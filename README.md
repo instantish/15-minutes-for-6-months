@@ -1,9 +1,10 @@
 # 15 minutes for 6 months
+
+[![Memorable Milestones](https://res.cloudinary.com/m15y/image/upload/v1588977044/su/TJ5G67VHU/kmbjqinsp71vavcdth7j.svg)](https://github.com/instantish/memorable-milestones)
+
 _For early-stage SaaS and consumer startups._
 
 Take 15 minutes to set up an issue tracking system you probably won’t have to think about for at least 6 months.
-
-[![Memorable Milestones](https://res.cloudinary.com/m15y/image/upload/v1588977044/su/TJ5G67VHU/kmbjqinsp71vavcdth7j.svg)](https://github.com/instantish/memorable-milestones)
 
 ## Setup
 
