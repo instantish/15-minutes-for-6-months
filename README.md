@@ -16,9 +16,9 @@ That's it!
 
 This will trigger actions that put your labels and milestones on auto-pilot.
 
-The milestones are weekly sprints, created 7-8 weeks out, and due every Thursday. The GitHub Action will create them ahead of time and close them when they're done.
+The **milestones** are weekly sprints, created 7-8 weeks out, and due every Thursday. The GitHub Action will create them ahead of time and close them when they're done. [Read the methodology.](https://github.com/marketplace/actions/memorable-milestones)
 
-Labels are a simple set of tags meant for private projects. Colors and names are determined to be memorable and simple.
+The **labels** are a simple set of tags meant for private projects. Colors and names are determined to be memorable, simple, and accessible. Inspired by [this research paper](https://t.co/Th3xuoC02R?amp=1) on colour theory.
 
 
 ![Labels](https://res.cloudinary.com/m15y/image/upload/v1591145194/su/TJ5G67VHU/d8dcsnbio3ih1xyjkmf2.png)
