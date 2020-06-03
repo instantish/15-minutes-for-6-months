@@ -4,7 +4,7 @@
 
 _For early-stage SaaS and consumer startups._
 
-Take 15 minutes to set up an issue tracking system you probably won’t have to think about for at least 6 months.
+Take **15 minutes** to set up an issue tracking system you probably won’t have to think about for at least **6 months.**
 
 ## Get started
 
