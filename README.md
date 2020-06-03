@@ -6,11 +6,11 @@ _For early-stage SaaS and consumer startups._
 
 Take 15 minutes to set up an issue tracking system you probably won’t have to think about for at least 6 months.
 
-## Setup
+## Get started.
 
 Add the files from the `.github` folder into your repo's `.github` folder. Or, if you don't have a repo yet, you can fork this one and start from there!
 
-That's it!
+That's it! ⚡️
 
 ## What does this do?
 
