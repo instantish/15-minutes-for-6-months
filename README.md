@@ -1,5 +1,5 @@
 # 15 minutes for 6 months
-_How to set up a minimal issue tracking process in 15 minutes that you won’t have to think about for 6 months._
+_For SaaS and consumer startups. Take 15 minutes to set up an issue tracking system you won’t have to think about for 6 months._
 
 [![Memorable Milestones](https://res.cloudinary.com/m15y/image/upload/v1588977044/su/TJ5G67VHU/kmbjqinsp71vavcdth7j.svg)](https://github.com/instantish/memorable-milestones)
 
