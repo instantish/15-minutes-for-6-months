@@ -25,6 +25,4 @@ The **labels** are a simple set of tags meant for private projects. Colors and n
 
 ![Milestones](https://res.cloudinary.com/m15y/image/upload/v1591145195/su/TJ5G67VHU/fyerekduyavceqvvgaef.png)
 
-Watch this space 👀
-
-_Questions? Email us at hi@itsinstantish.com and we'll be happy to help!_
+_Have questions or want to track your issues in Slack? Email us at hi@itsinstantish.com and we'll be happy to help!_
