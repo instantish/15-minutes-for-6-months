@@ -8,7 +8,7 @@ Take **15 minutes** to set up an issue tracking system you probably won’t have
 
 ## Get started
 
-Add the files from the `.github` folder into your repo's `.github` folder. Or, if you don't have a repo yet, you can fork this one and start from there!
+Add the files from the `.github` folder into your repo's `.github` folder. Or, if you don't have a repo yet, click the green "Use this template" button.
 
 That's it! ⚡️
 
