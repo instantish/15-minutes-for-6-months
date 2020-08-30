@@ -4,7 +4,7 @@ _For early-stage SaaS and consumer startups._
 
 [![Memorable Milestones](https://res.cloudinary.com/m15y/image/upload/v1588977044/su/TJ5G67VHU/kmbjqinsp71vavcdth7j.svg)](https://github.com/instantish/memorable-milestones)
 
-Take **15 minutes** to set up an issue tracking system you probably won’t have to think about for at least **6 months.**
+Take **15 minutes** to set up a basic issue tracking system (labels + milestones) you probably won’t have to think about for at least **6 months.**
 
 ## Get started
 
@@ -23,6 +23,8 @@ The **labels** are a simple set of tags meant for private projects. Colors and n
 
 ![Labels](https://res.cloudinary.com/m15y/image/upload/v1591145194/su/TJ5G67VHU/d8dcsnbio3ih1xyjkmf2.png)
 
-![Milestones](https://res.cloudinary.com/m15y/image/upload/v1591145195/su/TJ5G67VHU/fyerekduyavceqvvgaef.png)
+![Milestones](https://res.cloudinary.com/m15y/image/upload/v1598812855/su/T0SNQGHNY/he1ki7bcwqqstcgf38b3.png)
 
-_Have questions or want to track your issues in Slack? Email us at hi@itsinstantish.com and we'll be happy to help!_
+_Have questions? Email us at hi@itsinstantish.com and we'll be happy to help!_
+
+_And if you'd like to track issues in Slack, check out [Instantish](https://itsinstantish.com)._
