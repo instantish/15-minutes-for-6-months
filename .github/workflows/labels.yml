@@ -5,8 +5,6 @@ on:
       - master
     paths:
       - .github/labels.yml
-  label:
-    types: [created]
 jobs:
   build:
     runs-on: ubuntu-latest
