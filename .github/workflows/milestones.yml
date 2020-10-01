@@ -3,10 +3,6 @@ on:
   schedule:
   - cron: "0 * * * *"
   create:
-    branches:
-      - master
-    paths:
-      - .github/workflows/milestones.yml
   push:
     branches:
       - master
