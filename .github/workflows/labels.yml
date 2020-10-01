@@ -1,5 +1,10 @@
 name: Put labels on autopilot with Instantish
 on:
+  create:
+    branches:
+      - master
+    paths:
+      - .github/labels.yml
   push:
     branches:
       - master
