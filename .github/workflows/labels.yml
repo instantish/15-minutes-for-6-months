@@ -4,7 +4,7 @@ on:
     branches:
       - master
     paths:
-      - .github/labels.yml
+      - .github/labels-with-estimates.yml
 jobs:
   build:
     runs-on: ubuntu-latest
