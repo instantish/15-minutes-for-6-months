@@ -1,7 +1,7 @@
-name: "Put milestones on autopilot"
+name: "Use weekly memorable milestones"
 on:
   schedule:
-  - cron: "0 * * * *"
+    - cron: "0 * * * *" # runs once an hour
   push:
     branches:
       - master
@@ -12,6 +12,6 @@ jobs:
   milestones:
     runs-on: ubuntu-latest
     steps:
-    - uses: instantish/memorable-milestones@1.1.3
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: instantish/memorable-milestones@1.1.3
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
