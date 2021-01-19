@@ -8,9 +8,13 @@ Take **15 minutes** to set up a basic issue tracking system (labels + milestones
 
 ## Get started
 
-Add the files from the `.github` folder into your repo's `.github` folder. Or, if you don't have a repo yet, click the green "Use this template" button.
+1. Click the green "Use this template" button.
+
+2. To trigger the GitHub Action for the first time, edit the `name` field in `.github/workflows/milestones.yml` to be `"Use weekly Memorable Milestones"`. A small commit triggers the milestone syncing.
 
 That's it! ⚡️
+
+_Want to use the labels and milestones for an **existing repository?** Copy over the `.github/workflows/milestones.yml` file and add the labels to your repository manually (we wish there was a faster way too! 🐢)._
 
 ## What does this do?
 
