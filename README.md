@@ -45,7 +45,7 @@ The **labels** are a simple set of tags meant for private projects. Colors and n
 
 ## Advanced
 
-### Using this as the default repository template for your organization
+### Using this as a repository template for your organization
 
 _Want to make it easy for **members of your org** to use this template when they create a new repo?_
 
