@@ -63,7 +63,7 @@ When someone creates a new repo, this template will come up as an option.
 
 ![Choose repo](https://res.cloudinary.com/m15y/image/upload/v1611083611/su/T0SNQGHNY/ympaehq7cowecmmg5uzn.png)
 
+---
 
-_Have questions? Email us at hi@itsinstantish.com and we'll be happy to help!_
+Built with 💙 by the team behind [Fabric](https://tryfabric.com).
 
-_And if you'd like to track issues in Slack, check out [Instantish](https://itsinstantish.com)._
